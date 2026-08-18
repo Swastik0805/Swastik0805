@@ -8,8 +8,8 @@ Building intelligent machines using Robotics, Computer Vision, AI and Embedded S
 
 <br>
 
-<a href="https://www.linkedin.com/in/swastik-singh-1545a2331/">
-<img src="https://img.shields.io/badge/LinkedIn-Swastik%20Singh-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/swastik-singh-15452a331/">
+  <img src="https://img.shields.io/badge/LinkedIn-Swastik%20Singh-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 </div>
